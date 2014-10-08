@@ -1,0 +1,3 @@
+loginBdd = 'monLogin'
+mdpBdd = 'monPassword'
+
